@@ -4,12 +4,12 @@ A production-ready NLP project that leverages BERT fine-tuning to classify menta
 
 This project demonstrates an end-to-end pipeline  from dataset handling and model training to deployment using an interactive Streamlit web app.
 
-## 💼 Problem Statement
+##  Problem Statement
 
 
 Traditional sentiment analysis (positive/negative/neutral) is insufficient for mental health contexts.
 
-> This project fills that gap by classifying text into psychologically meaningful categories, enabling deeper insights into emotional states
+This project fills that gap by classifying text into psychologically meaningful categories, enabling deeper insights into emotional states
 
 ## 🚀 Project Overview
 
@@ -112,8 +112,7 @@ User Input → Tokenizer → BERT Model → Logits → Label Decoder → Output
 ## ⚙️ Run Locally
 
 ```bash id="d4k2l1"
-git clone https://github.com/your-username/
-mental-health-sentiment-analyzer.git
+git clone https://github.com/batoolarifa/mental-health-sentiment-analyzer
 ```
 
 ```bash cd mental-health-sentiment-analyzer
